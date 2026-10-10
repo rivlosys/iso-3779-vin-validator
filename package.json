@@ -1,0 +1,31 @@
+{
+  "name": "iso-3779-vin-validator",
+  "version": "1.0.0",
+  "description": "Zero-dependency ISO 3779 & US 49 CFR Part 565 Vehicle Identification Number (VIN) check digit validator and model year decoder.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivlosys/iso-3779-vin-validator.git"
+  },
+  "keywords": [
+    "vin",
+    "vin-validator",
+    "iso-3779",
+    "iso-3780",
+    "check-digit",
+    "cfr-565",
+    "nhtsa",
+    "automotive",
+    "typescript"
+  ],
+  "author": "UseCOS Engineering (https://usecos.app)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivlosys/iso-3779-vin-validator/issues"
+  },
+  "homepage": "https://usecos.app/vin"
+}

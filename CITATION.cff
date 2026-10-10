@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or its vehicle validation algorithms, please cite it as below."
+authors:
+  - name: "UseCOS Engineering"
+    website: "https://usecos.app"
+title: "ISO 3779 & US 49 CFR Part 565 VIN Validator: Check Digit & Model Year Reference Implementation"
+version: 1.0.0
+date-released: 2026-10-09
+url: "https://github.com/rivlosys/iso-3779-vin-validator"
+repository-code: "https://github.com/rivlosys/iso-3779-vin-validator"
+keywords:
+  - "vin"
+  - "iso-3779"
+  - "check-digit"
+  - "nhtsa"
+  - "cfr-565"
+  - "automotive"
+license: "MIT"
